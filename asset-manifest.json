@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/just-fun/static/css/main.308ce7ba.css",
+    "main.js": "/just-fun/static/js/main.24a4bc32.js",
+    "static/js/787.4baa0d04.chunk.js": "/just-fun/static/js/787.4baa0d04.chunk.js",
+    "index.html": "/just-fun/index.html",
+    "main.308ce7ba.css.map": "/just-fun/static/css/main.308ce7ba.css.map",
+    "main.24a4bc32.js.map": "/just-fun/static/js/main.24a4bc32.js.map",
+    "787.4baa0d04.chunk.js.map": "/just-fun/static/js/787.4baa0d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308ce7ba.css",
+    "static/js/main.24a4bc32.js"
+  ]
+}
