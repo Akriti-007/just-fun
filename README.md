@@ -5,6 +5,8 @@ It is a trial project to add react page to github and host it and hence its name
 - HTML
 - CSS
 - JAVASCRIPT
+- REACT
+
 
      
 
